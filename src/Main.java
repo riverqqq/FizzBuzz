@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        \\ hahsbabdiuwbuicbwiuebiuwebicw 
+        \\1
         FizzBuzz.doFizzBuzz(5);
     }
 }
